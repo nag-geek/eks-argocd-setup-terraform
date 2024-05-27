@@ -1,0 +1,5 @@
+apiVersion: v2
+name: argo-cd
+description: ArgoCD Helm chart for Kubernetes
+version: 1.0.0
+
